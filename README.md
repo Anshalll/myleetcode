@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anshalll/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1603-design-parking-system](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1603-design-parking-system) |
 ## Trie
 |  |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Anshalll/myleetcode/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anshalll/myleetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anshalll/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
