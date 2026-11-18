@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anshalll/myleetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anshalll/myleetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anshalll/myleetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Anshalll/myleetcode/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Anshalll/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshalll/myleetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anshalll/myleetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Anshalll/myleetcode/tree/master/0085-maximal-rectangle) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
