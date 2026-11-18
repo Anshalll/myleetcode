@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Anshalll/myleetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anshalll/myleetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anshalll/myleetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -121,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Anshalll/myleetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
