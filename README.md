@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anshalll/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/Anshalll/myleetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anshalll/myleetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshalll/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Anshalll/myleetcode/tree/master/0217-contains-duplicate) |
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Anshalll/myleetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1603-design-parking-system) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anshalll/myleetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Anshalll/myleetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anshalll/myleetcode/tree/master/0085-maximal-rectangle) |
 | [1672-richest-customer-wealth](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Design
