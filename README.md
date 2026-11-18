@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anshalll/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Anshalll/myleetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anshalll/myleetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshalll/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anshalll/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Anshalll/myleetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshalll/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1470-shuffle-the-array](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1470-shuffle-the-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Anshalll/myleetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anshalll/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Anshalll/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshalll/myleetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anshalll/myleetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
