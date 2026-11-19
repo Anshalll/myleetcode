@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anshalll/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Anshalll/myleetcode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/Anshalll/myleetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anshalll/myleetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshalll/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Anshalll/myleetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Anshalll/myleetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Anshalll/myleetcode/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anshalll/myleetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anshalll/myleetcode/tree/master/0876-middle-of-the-linked-list) |
