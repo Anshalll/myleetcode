@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Anshalll/myleetcode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/Anshalll/myleetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Anshalll/myleetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Anshalll/myleetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshalll/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anshalll/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Anshalll/myleetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Anshalll/myleetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Anshalll/myleetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Anshalll/myleetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Anshalll/myleetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anshalll/myleetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anshalll/myleetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Anshalll/myleetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anshalll/myleetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anshalll/myleetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
