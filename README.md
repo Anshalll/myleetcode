@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/Anshalll/myleetcode/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/Anshalll/myleetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshalll/myleetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Anshalll/myleetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Anshalll/myleetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anshalll/myleetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Anshalll/myleetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Anshalll/myleetcode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anshalll/myleetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
