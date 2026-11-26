@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anshalll/myleetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshalll/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2349-design-a-number-container-system](https://github.com/Anshalll/myleetcode/tree/master/2349-design-a-number-container-system) |
 ## Counting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anshalll/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1603-design-parking-system](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1603-design-parking-system) |
+| [2349-design-a-number-container-system](https://github.com/Anshalll/myleetcode/tree/master/2349-design-a-number-container-system) |
 ## Trie
 |  |
 | ------- |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Anshalll/myleetcode/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/Anshalll/myleetcode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/Anshalll/myleetcode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
